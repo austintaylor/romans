@@ -3,7 +3,7 @@
   <channel>
     <copyright>
 &#169; 2013 Desiring God    </copyright>
-    <atom:link href="https://dl.dropboxusercontent.com/u/5695334/romans.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.github.com/austintaylor/romans/master/out.rss" rel="self" type="application/rss+xml"/>
     <description>Desiring God</description>
     <itunes:author>Desiring God</itunes:author>
     <itunes:owner>
